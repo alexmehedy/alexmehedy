@@ -55,7 +55,7 @@ Programmer | Lazy Coder | Learner
 
 <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexmehedy&show_icons=true&locale=en&layout=compact" alt="Alex mehedy" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NoobMahbub&show_icons=true&locale=en" alt="Alex mehedy" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=alexmehedy&show_icons=true&locale=en" alt="Alex mehedy" /></p>
 
 
 [facebook]: https://facebook.com/alex.mehedy
